@@ -1,6 +1,7 @@
 body{
     color: var(--text-color);
     font-family: var(--font-family-base);
+    font-size: var(--font-size-medium);
 }
 
 a{
@@ -43,10 +44,13 @@ h5,
 h6 {
     font-family: var(--font-family-title);
 }
-html{
+
+html {
     font-size: 62.5%;
     scroll-behavior: smooth;
-}
- custom-font {
+  }
+
+  .custom-font {
     font-size: var(--font-size-small);
-}
+  }
+  
