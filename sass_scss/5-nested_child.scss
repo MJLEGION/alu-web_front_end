@@ -3,9 +3,9 @@ $TextColor: #3D3D3D;
 $Redcolor: #FF0000
 
 body {
-    color: $Textcolor;
+    color: $Tcolor;
   
     > .red {
-      color: $Redcolor;
+      color: $Rcolor;
     }
   }
