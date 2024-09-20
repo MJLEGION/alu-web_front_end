@@ -1,0 +1,11 @@
+//s
+$TextColor: #3D3D3D;
+$Redcolor: #FF0000
+
+body {
+    color: $Textcolor;
+  
+    > .red {
+      color: $Redcolor;
+    }
+  }
