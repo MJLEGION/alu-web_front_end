@@ -4,15 +4,15 @@ $TextColor: #3D3D3D;
 
 $BgColor: #6D6D6D;
 
-body{
-    color: #3D3D3D;
-    background-color: #6D6D6D;
-}
-
-p{
-    color: #3d3d3d;
-}
-
-h2{
-    background-color: #6D6D6D;
-}
+body {
+    color: $TextColor;
+    background-color: $BgColor;
+  }
+  
+  p {
+    color: $TextColor;
+  }
+  
+  h2 {
+      background-color: $BgColor;
+  }
