@@ -1,11 +1,11 @@
 //s
 $TextColor: #3D3D3D;
-$Redcolor: #FF0000
+$Redcolor: #FF0000;
 
 body {
-    color: $Tcolor;
+    color: $Textcolor;
   
     > .red {
-      color: $Rcolor;
+      color: $Redcolor;
     }
   }
