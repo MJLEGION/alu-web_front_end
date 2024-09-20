@@ -1,5 +1,5 @@
 //I am getting a bit lost i guess
-
+{
 $body-margin: 0px;
 $body-padding: 0px;
 $p-margin: 10px;
@@ -10,5 +10,6 @@ body{
 }
 
   p {
-    margin: $10px;
+    margin: $p-margin;
   }
+}
