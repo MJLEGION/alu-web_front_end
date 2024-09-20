@@ -1,10 +1,12 @@
 // color #3D3D3D
 
-$color: #3D3D3D
-body{
-    color: main-text-color;
+$Color: #3D3D3D;
+
+body {
+  color: $Color;
 }
 
-p{
-    color: main-text-color;
+p {
+  color: $Color;
+}
 }
