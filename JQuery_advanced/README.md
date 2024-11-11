@@ -1,1 +1,1 @@
-This is weird 
+So this is jquery
